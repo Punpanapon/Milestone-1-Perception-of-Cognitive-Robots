@@ -67,3 +67,7 @@ The robot operates using a reactive Finite State Machine:
 ## 📊 Simulation Results
 The robot successfully differentiates between huge smooth walls (ignored) and small textured boxes (avoided), solving the "ABCD texture" problem using the implemented spatial cooldown filter.
 
+<img width="2559" height="1521" alt="Screenshot 2026-02-06 225921" src="https://github.com/user-attachments/assets/a33e1b2f-bc52-4984-b800-eccf0e2b8669" />
+<img width="2559" height="1527" alt="Screenshot 2026-02-06 225902" src="https://github.com/user-attachments/assets/7a3f5de3-58a0-4699-a047-34bf3e49ea70" />
+<img width="2559" height="1534" alt="Screenshot 2026-02-06 225841" src="https://github.com/user-attachments/assets/79fdbcf9-323c-4e60-82ce-799882199f4a" />
+
